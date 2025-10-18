@@ -16,11 +16,11 @@ social: false # includes social icons at the bottom of the page
 
 # Background
 
-Hi! My name is **Brian Huang**, and I’m a first-year **EECS Ph.D. student** at UC Irvine advised by [**Prof. Athina Markopoulou**](https://athinagroup.eng.uci.edu/athina/). I graduated with a B.S. and honors from UC Santa Cruz where I was super fortunate to have been able to work with [**Prof. Ram Sundara Raman**](https://ramakrishnansr.com/).
+Hi! My name is **Brian Huang**, and I’m a first-year **EECS Ph.D. student** at UC Irvine advised by [**Prof. Athina Markopoulou**](https://athinagroup.eng.uci.edu/athina/) and [**Prof. Sangeetha Abdu Jyothi**](https://ics.uci.edu/~sabdujyo/). I am a part of their respective labs [**AthinaGroup**](https://athinagroup.eng.uci.edu/athina/) and [**NetSAIL**](https://ics.uci.edu/~sabdujyo/) I graduated with a B.S. and honors from UC Santa Cruz where I was super fortunate to have been able to work with [**Prof. Ram Sundara Raman**](https://ramakrishnansr.com/).
 
 # Research Interests
 
-My current research lies broadly in the intersections of the areas of **satellite networks, space security, network security, internet censorship, privacy/policy, and AI/ML**.
+My current research lies broadly in the intersections of the areas of **satellite networks, space security, network security, network measurement, internet censorship, privacy/policy, and AI/ML**.
 
 At UCSC, I worked with [**Prof. Ram Sundara Raman**](https://ramakrishnansr.com/), where we investigated real-world DPI deployments and their impact on online security and censorship. I also worked in [**Prof. Katia Obrackza's**](https://cider.ucsc.edu/people/katia-obraczka/) lab, [**i-NRG**](https://inrg.engineering.ucsc.edu/), on real-world applications of [**Li-Fi**](https://lightlinks.co/). My goal is to develop strategies that **enhance internet freedom** while strengthening security measures.
 

@@ -9,7 +9,7 @@ nav_order: 6
 
 ## UCI
 
-soon!
+Spring 2026 - CS 132/ EECS 148: Computer Networks - TA
 
 ## UCSC
 
